@@ -17,7 +17,7 @@ public class Test {
      */
     public static void main(String[] args) {
         System.out.println("hejhej");
-        System.out.println("ingematalls");
+        System.out.println("testatestet!");
     }
     
 }
