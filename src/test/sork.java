@@ -11,5 +11,5 @@ package test;
  * @author johancholmberg
  */
 public class sork {
-    
+int s=0;
 }
